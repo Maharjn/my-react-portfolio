@@ -18,7 +18,7 @@ The Portfolio page contains a list of few projects that was developed as part of
 ## Application Screenshot
 The following screenshot shows the Home page of the Portfolio
 
-[My React Portfolio](./src/assets/Appln_screenshot.jpg)
+![My React Portfolio](./src/assets/Appln_screenshot.jpg)
 
 ## Installation
 Run the following at the command line
