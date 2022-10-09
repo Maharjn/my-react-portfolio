@@ -30,7 +30,7 @@ function About() {
                     <h2>Hi there, I'm</h2>
                     <h1>Mahalakshmi Rajendran</h1>
                     <h3>Open source <span ref={textRef}></span></h3>
-                    <p>Technically advanced Java Developer with 7+ years of experience in designing, developing, and delivering user-centric software applications using Java/J2EE technologies. Offering strong expertise in multiple programming languages, including JavaScript, HTML. Seeking to secure a challenging position in the software industry. I am having 5 months experience in Automation testing using Selenium with xunit framework.
+                    <p>Technically advanced Java Developer with 7+ years of experience in designing, developing, and delivering user-centric software applications using Java/J2EE technologies. Offering strong expertise in multiple programming languages, including JavaScript, HTML. Currently working as an Automation Tester.
                     </p>
                 </div>
             </div>
