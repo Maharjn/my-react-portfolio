@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.46fd6e0c.css",
-    "main.js": "/static/js/main.f766417f.js",
-    "static/js/787.56d9acf9.chunk.js": "/static/js/787.56d9acf9.chunk.js",
-    "static/media/readme_gen.JPG": "/static/media/readme_gen.ba5893c580577f997f11.JPG",
-    "static/media/contact.jpg": "/static/media/contact.fffac7b127fe39c7ea73.jpg",
-    "static/media/weather_dashboard.JPG": "/static/media/weather_dashboard.a547e24ef11eda696390.JPG",
-    "static/media/emp_tracker.JPG": "/static/media/emp_tracker.a1556c9af342dab116be.JPG",
-    "static/media/ecomm_backend.JPG": "/static/media/ecomm_backend.578b920d7e6975de9ec6.JPG",
-    "static/media/pwd_gen.JPG": "/static/media/pwd_gen.173735ec528a9ccf780f.JPG",
-    "static/media/Note-taker.JPG": "/static/media/Note-taker.f4c938471c1507161d93.JPG",
-    "static/media/quiz.JPG": "/static/media/quiz.c09766ae3966c29e92be.JPG",
-    "static/media/Avatar.jpg": "/static/media/Avatar.d7500a10b9fc59f9b8be.jpg",
-    "index.html": "/index.html",
-    "main.46fd6e0c.css.map": "/static/css/main.46fd6e0c.css.map",
-    "main.f766417f.js.map": "/static/js/main.f766417f.js.map",
-    "787.56d9acf9.chunk.js.map": "/static/js/787.56d9acf9.chunk.js.map"
+    "main.css": "/my-react-portfolio/static/css/main.46fd6e0c.css",
+    "main.js": "/my-react-portfolio/static/js/main.31237bcd.js",
+    "static/js/787.56d9acf9.chunk.js": "/my-react-portfolio/static/js/787.56d9acf9.chunk.js",
+    "static/media/readme_gen.JPG": "/my-react-portfolio/static/media/readme_gen.ba5893c580577f997f11.JPG",
+    "static/media/contact.jpg": "/my-react-portfolio/static/media/contact.fffac7b127fe39c7ea73.jpg",
+    "static/media/weather_dashboard.JPG": "/my-react-portfolio/static/media/weather_dashboard.a547e24ef11eda696390.JPG",
+    "static/media/emp_tracker.JPG": "/my-react-portfolio/static/media/emp_tracker.a1556c9af342dab116be.JPG",
+    "static/media/ecomm_backend.JPG": "/my-react-portfolio/static/media/ecomm_backend.578b920d7e6975de9ec6.JPG",
+    "static/media/pwd_gen.JPG": "/my-react-portfolio/static/media/pwd_gen.173735ec528a9ccf780f.JPG",
+    "static/media/Note-taker.JPG": "/my-react-portfolio/static/media/Note-taker.f4c938471c1507161d93.JPG",
+    "static/media/quiz.JPG": "/my-react-portfolio/static/media/quiz.c09766ae3966c29e92be.JPG",
+    "static/media/Avatar.jpg": "/my-react-portfolio/static/media/Avatar.d7500a10b9fc59f9b8be.jpg",
+    "index.html": "/my-react-portfolio/index.html",
+    "main.46fd6e0c.css.map": "/my-react-portfolio/static/css/main.46fd6e0c.css.map",
+    "main.31237bcd.js.map": "/my-react-portfolio/static/js/main.31237bcd.js.map",
+    "787.56d9acf9.chunk.js.map": "/my-react-portfolio/static/js/787.56d9acf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.46fd6e0c.css",
-    "static/js/main.f766417f.js"
+    "static/js/main.31237bcd.js"
   ]
 }
