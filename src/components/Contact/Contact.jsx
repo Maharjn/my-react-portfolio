@@ -1,7 +1,6 @@
 import React from 'react';
 import "./Contact.scss"
 import { useState } from 'react';
-import { validateEmail } from '../../utils/helpers';
 
 import contactme from "../../assets/contact.jpg"
 
