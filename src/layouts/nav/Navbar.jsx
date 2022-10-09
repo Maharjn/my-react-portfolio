@@ -26,7 +26,7 @@ export default function Navbar() {
         <Typography variant="h4" sx={{ flexGrow: 1 }} cursor="pointer">
           Maha's Portfolio
         </Typography>
-            <Link style={{textDecoration: 'none',color:'white',marginRight:20}}  to="/">
+            <Link style={{textDecoration: 'none',color:'white',marginRight:20}}  to="/my-react-portfolio">
                 About Me
             </Link>
             <Link style={{textDecoration: 'none',color:'white',marginRight:20}} to="/contact">
